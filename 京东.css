@@ -1,0 +1,83 @@
+.clear:after{
+
+content: '';
+
+display: block;
+
+clear: both;
+}
+
+
+header{
+
+width: 1188px;
+
+padding-left: 38px;
+
+padding-right: 33px;
+
+margin: 50px auto ;
+
+background: #f1f1f1;
+
+}
+li{
+
+font-size: 12px;
+line-height: 30px;
+float: left;
+}
+
+.fr{
+float: right;
+}
+a{
+color: black;
+display: block;
+
+}
+header .f1,header .f2{
+margin-left: 9px;
+}
+
+header .f2{
+
+  background: no-repeat url(../images/箭头2.png) 27px 13px;
+  padding-right: 15px;
+}
+.foot li{
+
+margin-left: 10px;
+
+}
+.foot .l1{
+margin-left: 8px;
+
+}
+.foot .l1 a{
+color: red;
+
+}
+.foot .l2{
+
+   margin-left: 13px;
+}
+.foot .a1{
+  background: no-repeat url(../images/箭头2.png) 53px 12px;
+  padding-right: 19px;
+}
+.foot .a2{
+padding-left: 17px;
+padding-right: 18px;
+
+background: no-repeat url(../images/箭头2.png) 69px 12px;
+
+}
+.foot .l3{
+background: no-repeat url(../images/箭头2.png) 1px -18px;
+}
+.foot .a3{
+
+  padding-right: 19px;
+  background: no-repeat url(../images/箭头2.png) 53px 12px;
+}

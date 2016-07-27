@@ -1,0 +1,154 @@
+.clear:after{
+
+content: '';
+
+display: block;
+
+clear: both;
+}
+
+
+.fl{
+
+float: left;
+
+}
+li{
+
+float: left;
+
+}
+
+.all{
+
+width: 640px;
+
+margin: 50px auto;
+
+padding-left: 19px;
+
+padding-top: 16px;
+
+padding-right: 19px;
+
+border: 1px solid #e4e4e4;
+}
+
+.header a{
+
+  display: block;
+
+font-size: 12px;
+
+margin-top: 14px;
+
+color:black;
+
+margin-left: 18px;
+}
+.header .h1{
+
+margin-left: 14px;
+
+}
+.header .h2 {
+
+  float: right;
+
+}
+.header .h2 a{
+
+  display: block;
+
+background:no-repeat url(../images/双箭头.png) 26px 1px ;
+
+padding-right: 18px;
+
+margin-left:0px;
+
+}
+
+.foot{
+
+width: 640px;
+
+
+}
+
+.foot a{
+
+display: block;
+
+margin-top: 20px;
+
+font-size: 11px;
+
+color: black;
+
+width: 112px;
+
+height:11px;
+
+margin-right: 20px;
+
+float: left;
+
+padding-top: 158px;
+
+}
+.foot .f15{
+
+margin-right: 0px;
+
+}
+.foot .f20{
+
+margin-right:0px;
+
+margin-bottom: 25px;
+
+}
+
+.foot .f11 {
+
+background:no-repeat url(../images/笑傲江湖.png) ;
+
+}
+.foot .f12{
+
+background:no-repeat url(../images/贤妻.png) ;
+
+}
+.foot .f13{
+background:no-repeat url(../images/13.png) ;
+
+}
+
+.foot .f14{
+background:no-repeat url(../images/14.png) ;
+
+}
+.foot .f15{
+background:no-repeat url(../images/15.png) ;
+
+}
+.foot .f16{
+background:no-repeat url(../images/16.png) ;
+
+}
+.foot .f17{
+background:no-repeat url(../images/17.png) ;
+
+}
+.foot .f18{
+background:no-repeat url(../images/18.png) ;
+
+}
+.foot .f19{
+background:no-repeat url(../images/19.png) ;
+
+}
+.foot .f20{
+background:no-repeat url(../images/20.png) ;
+
+}

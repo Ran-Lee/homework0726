@@ -1,0 +1,91 @@
+.clear:after{
+ content: '';
+ display: block;
+ clear: both;
+}
+.wrapper{
+  margin: 50px auto;
+  width: 1220px;
+  padding-top: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+}
+
+header a{
+color: black;
+display: block;
+float: left;
+
+}
+header .a1{
+  line-height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+}
+header .a2{
+line-height: 37px;
+font-size: 15px;
+font-family: "华文新魏";
+margin-top: 3px;
+margin-left: 8px;
+
+}
+header li .a3{
+  font-size: 12px;
+  line-height: 40px;
+  float: right;
+  padding-right: 26px;
+  background:no-repeat url(../images/换一批.png) 35px 0px;
+
+}
+ul a{
+font-size: 12px;
+line-height: 24px;
+display: block;
+color: black;
+padding-left:36px;
+
+}
+.body li{
+float: left;
+border: 1px solid #e6e6e6;
+margin-bottom: 10px;
+width: 201px;
+
+}
+.body .b1{
+
+  padding-top: 160px;
+}
+.body .b11{
+color: red;
+display: block;
+font: 13px;
+line-height: 31px;
+padding-bottom: 5px;
+}
+.body .l1{
+background: no-repeat url(../images/b1.png);
+}
+.body .l2{
+
+  background:  no-repeat url(../images/b2.png);
+}
+.body .l3{
+
+  background:  no-repeat url(../images/b3.png);
+}
+.body .l4{
+
+  background:  no-repeat url(../images/b4.png);
+}
+.body .l5{
+
+  background:  no-repeat url(../images/b5.png);
+}
+.body .l6{
+
+  background:  no-repeat url(../images/b6.png);
+}
